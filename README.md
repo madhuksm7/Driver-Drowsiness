@@ -9,7 +9,7 @@ Dependencies :
   - Pyttsx3
 
 Usage
-- Run the `drowsiness_detection.py` script
+- Run the `drowsiness.py` script
 - Ensure that your webcam is connected and positioned correctly to capture your face.
 - The application will display a live video feed with facial landmarks drawn on the screen.
 - If the system detects drowsiness based on the aspect ratio of your eyes, it will trigger an alert sound and a spoken warning message.
